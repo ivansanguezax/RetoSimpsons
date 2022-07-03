@@ -3,7 +3,7 @@
 **`¡HOLA MUNDO! 👋🏼`**
              
 
-![Portafolio - Cover](https://github.com/ivansanguezax/Portfolio-Green/blob/b0101ecb1e5be259290cbd15d678f5d897e5b155/Assets/jpg/Portafolio-cover.jpg "Portfolio-Cover ")
+![Portafolio - Cover](https://github.com/ivansanguezax/RetoSimpsons/blob/6e7c1c57cc8c64097930fb257171134cea062e6c/webMain.png "Portfolio-Cover ")
 
 ## Descripción
 
