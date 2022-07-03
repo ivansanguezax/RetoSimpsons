@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Texturina&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 62.5%;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(27, 27, 27);
+}
+
+main{
+    width: 620px;
+    min-width: 600px;
+    height: 500px; 
+    border-radius: 4px;
+    padding: 0px 13px;
+    background-color: white;
+    border:solid black 1px;
+
+}
+
+.globalWidth{
+    min-width: 100%;
+}
+
+.title{
+    height: 19%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.title p{
+    /* font-family: 'Pirata One'; */
+    font-family: 'Texturina', serif;
+    font-size: 5rem;
+    letter-spacing: 0.2rem;
+    word-spacing: 2rem;
+}
+
+
+.info{
+    height: 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    border-top: solid;
+    border-bottom: solid;
+    border-width: 2px;
+}
+.info p{
+    font-size: 2.5rem;
+    font-family: Calibri;
+    font-weight: 400;
+}
+
+.header{
+    height: 26%;
+    display: flex;
+    align-items: center;
+}
+.header p{
+    font-family: Helvetica, sans-serif;
+    font-weight:700;
+    font-size: 6rem;
+    line-height: 5.2rem;
+    letter-spacing: 0.5rem;
+    text-align: center;
+}
+
+.news{
+    height: 50%;
+    display: flex;
+}
+
+.left{
+    width: 45%;
+    margin-right: 2rem;
+    height: 100%;
+}
+
+.news__title{
+    width: 105%;
+    height: 40%;
+    
+    border-top: solid;
+    border-bottom: solid;
+    border-width: 2px;
+    margin-bottom: 0.5rem;
+}
+.news__title p{
+    font-size: 4rem;
+    font-family: 'Fjalla One', sans-serif;
+    line-height: 4.6rem;
+    padding-left: 1rem;
+}
+
+.news__content{
+    column-count: 2;
+    height: 55%;
+}
+.news__content p{
+    font-size: 1.2rem;
+    text-align: justify;
+}
+
+.right{
+    width: 50%;
+    height: 100%;
+    border-left: solid black 2px;
+    display: flex;
+    justify-content: center;
+}
+.right figure{
+    width: 90%;
+}
+.right img{
+    width: 100%;  
+}
+
+
+.paper{
+    width: 615px;
+    height: 4px;
+    background-color: white;
+    border-bottom: solid 1px black;
+}
+
+.paper2{
+    width: 613px;
+    height: 2px;
+    background-color: white;
+}
