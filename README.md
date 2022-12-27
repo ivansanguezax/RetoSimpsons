@@ -2,6 +2,8 @@
 
 In this repository we will see how to make a Design of the Simpsons Newspaper with Basic CSS Grid made with HTML CSS and JavaScript. The design is responsive and also useful for learning web principles.
 
+![SIMPSON](https://github.com/ivansanguezax/RetoSimpsons/blob/6e7c1c57cc8c64097930fb257171134cea062e6c/webMain.png "SIMPSON ")
+
 ## Tools we will use 🛠️ 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
 
@@ -14,3 +16,5 @@ In this repository we will see how to make a Design of the Simpsons Newspaper wi
 
 ---
 ⌨️ with ❤️ by [ivansanguezax](https://github.com/ivansanguezax) 😊
+             
+
