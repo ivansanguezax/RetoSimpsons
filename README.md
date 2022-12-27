@@ -1,23 +1,16 @@
-# Comic Simpsons CSS - Ivan Sangueza
+# COMIC SIMPSONS - CSS GRID 💥
 
-**`¡HOLA MUNDO! 👋🏼`**
-             
+In this repository we will see how to make a Design of the Simpsons Newspaper with Basic CSS Grid made with HTML CSS and JavaScript. The design is responsive and also useful for learning web principles.
 
-![Portafolio - Cover](https://github.com/ivansanguezax/RetoSimpsons/blob/6e7c1c57cc8c64097930fb257171134cea062e6c/webMain.png "Portfolio-Cover ")
+## Tools we will use 🛠️ 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
 
-## Descripción
+## For a complete guide check the following post ➡️  
 
-En este repositorio veremos como realizar un Diseño del Periodico de los Simpsons con CSS Grid Básico realizado con HTML CSS y JavaScript. El diseño es responsivo y tambien util para aprender principios de la web.
+[Css Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/ "Css Tricks")
 
-## Requisitos
-* HTML 5
-* CSS 3
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ivansanguezax) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivansanguezax) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ivansanguezax) 
 
-## ¿Te gusta el contenido?
-
-Déjame en comentarios tu opinión. 
-Si te gusta el contenido, **comparte** y **Dale a la estrellita** ⭐️
-
-**¡GRACIAS!**
-### Autor
-*Ivan Sangueza. © 2021*
+---
+⌨️ with ❤️ by [ivansanguezax](https://github.com/ivansanguezax) 😊
